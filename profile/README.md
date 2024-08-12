@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/3562bf48-3af6-4779-b5f9-f52587e90baa)
 
-<img src="https://github.com/clementp0/a2urbex/assets/15802129/3ff38c87-f9cd-4b0b-b34b-1f650625662e">
 <h1 align="center">a2urbex</h1>
 <p align="center">
   <a href="https://a2urbex.eu" target="_blank"><img alt="website" src="https://img.shields.io/badge/a2urbex-1C1C1C?style=flat-square&logo=googleearth&logoColor=white" height="25"></a>
