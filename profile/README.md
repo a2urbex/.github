@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98ec471e-45bc-405c-b0ee-462f24365c0d)
+![image](https://github.com/user-attachments/assets/07b30616-4a78-4c1e-82e1-1efdb87ab639)
 
 <h1 align="center">Your exploration co-pilot</h1>
 <p align="center">
