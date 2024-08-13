@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/3562bf48-3af6-4779-b5f9-f52587e90baa)
+![image](https://github.com/user-attachments/assets/98ec471e-45bc-405c-b0ee-462f24365c0d)
 
+<h1 align="center">Your exploration co-pilot</h1>
 <p align="center">
   <a href="https://a2urbex.eu" target="_blank"><img alt="website" src="https://img.shields.io/badge/a2urbex-1C1C1C?style=flat-square&logo=googleearth&logoColor=white" height="25"></a>
   <a href="https://instagram.com/a2urbex" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25"></a>
